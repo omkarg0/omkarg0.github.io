@@ -142,18 +142,18 @@ ninja.data = [{
           window.open("mailto:%6F%6D%6B%61%72.%67%6F%70%61%6C%61%6B%72%69%73%68%6E%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/omkargopalakrishnan", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/omkarg0", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/omkargopalakrishnan", "_blank");
         },
       },{
       id: 'light-theme',
