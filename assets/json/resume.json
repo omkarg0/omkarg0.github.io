@@ -15,63 +15,78 @@
             "region": "NRW"
         },
         "profiles": [
-            {
-                "network": "Twitter",
-                "username": "AlbertEinstein",
-                "url": "https://twitter.com/AlbertEinstein"
-            }
         ]
     },
     "work": [
         {
-            "name": "Institute for Advanced Study, Princeton University",
-            "position": "Professor of Theoretical Physics",
-            "url": "https://example.com",
-            "startDate": "1933-01-01",
-            "endDate": "1955-01-01",
-            "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+            "name": "Kultursaat e.V.",
+            "position": "IT Project Coordinator",
+            "url": "https://kultursaat.org",
+            "startDate": "2019-07",
+            "endDate": "2ß23-04",
+            "summary": "Modernization of the online project management tool through multi-stakeholder consultation",
             "highlights": [
-                "Relativity"
+                "Highly responsive, secure site with zero outage"
             ]
-        }
-    ],
-    "volunteer": [
+        },
+
         {
-            "organization": "People's Climate March",
-            "location": "Zurich, Switzerland",
-            "position": "Lead Organizer",
-            "url": "https://example.com",
-            "startDate": "2014-04-01",
-            "endDate": "2015-07-01",
-            "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+            "name": "IFOAM - Organics International",
+            "position": "Assistant to Executive Director and Board",
+            "url": "https://www.ifoam.bio",
+            "startDate": "2013-09",
+            "endDate": "2024-01",
+            "summary": "Assistant to Executive Director and Board",
             "highlights": [
-                "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-                "Men of the year 2014 by Time magazine"
+                "KPI monitoring and upkeep, Contract management"
+            ]
+        },
+
+        {
+            "name": "IFOAM - Organics International",
+            "position": "Communication Coordinator",
+            "url": "https://www.ifoam.bio",
+            "startDate": "2010-04",
+            "endDate": "2007-08",
+            "summary": "Communication Coordinator",
+            "highlights": [
+                "Communication, Digital Publication, Editing, Proofreading, Short thematic films"
             ]
         }
-    ],
+    ],  
     "education": [
+            {
+            "institution": "Bonn-Rhein-Sieg University of Applied Sciences",
+            "location": "Bonn, Germany",
+            "url": "https://www.h-brs.de/en/wiwi/study/master/csr-ngo-management",
+            "area": "Business Administration",
+            "studyType": "MBA CSR & NGO Management, ongoing",
+            "courses": [
+                "General Management (Information & Communication, Leadership & Human Resource Management, Monitoring & Evaluation, Investment & Finance, Logistics & Quality Management), CSR & NGO Management, Politics & Ethics (International Politics, Global and Business Ethics), Economics (Sustainability Economics, International Economics)"
+            ]
+        },
         {
             "institution": "University of Kerala, Kerala, India",
             "location": "Kerala, India",
             "url": "https://www.keralauniversity.ac.in",
             "area": "Zoology",
             "studyType": "M.Sc.",
-            "startDate": "1989-06-01",
-            "endDate": "1991-05-01",
-            "score": "First Class",
             "courses": [
                 "Ecology, Biosatatistics, Cell Biology, Physiology, Biochemistry"
             ]
-        }
-    ],
-    "awards": [
+        },
+
         {
-            "title": "Nobel Prize in Physics",
-            "date": "1921-11-01",
-            "awarder": "Royal Swedish Academy of Sciences",
-            "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-            "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+            "institution": "University of Kerala, Kerala, India",
+            "location": "Kerala, India",
+            "url": "https://www.keralauniversity.ac.in",
+            "area": "Zoology",
+            "studyType": "B.Sc.",
+            "startDate": "1986-06-01",
+            "endDate": "1989-05-01",
+            "courses": [
+                "Zoology, Botany, Biochemistry"
+            ]
         }
     ],
     "certificates": [
@@ -130,36 +145,13 @@
     ],
     "interests": [
         {
-            "name": "Data Science",
+            "name": "Data Science for social good",
             "icon": "fa-solid fa-tag",
             "keywords": [
-                "Quantum Mechanics",
-                "Quantum Computing",
-                "Quantum Information",
-                "Quantum Cryptography",
-                "Quantum Communication",
-                "Quantum Teleportation"
+                "social good",
+                "data activism",
+                "data storytelling"
             ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Dr. Vandana Shiva",
-            "icon": "fa-solid fa-laptop",
-            "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Quantum Computing",
-            "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-            "highlights": [
-                "Quantum Teleportation",
-                "Quantum Cryptography"
-            ],
-            "startDate": "2018-01-01",
-            "endDate": "2018-01-01",
-            "url": "https://example.com"
         }
     ]
 }
