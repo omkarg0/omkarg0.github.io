@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Contact Details Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: OG-Oct.2025-1mb.png.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Martin-Legros Straße 104</p>
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Omkar's biography here. 
+Data analyst and systems thinker with a foundation in ecology and sustainability, combining scientific insight with data‑driven problem solving. Experienced in SQL, Python, and Tableau for building dashboards and uncovering meaningful patterns. Former biologist with an MBA background focused on data governance, environmental reporting, and sustainable systems. Passionate about helping organizations make informed, evidence‑based decisions.
