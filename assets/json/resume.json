@@ -8,7 +8,7 @@
         "url": "https://omkarg0.github.io",
         "summary": "An Indian biologist resident in Germany who is into data science.",
         "location": {
-            "address": "Martin-Legros Strape 104",
+            "address": "Martin-Legros Straße 104",
             "postalCode": "53123",
             "city": "Bonn",
             "countryCode": "DE",
@@ -23,13 +23,12 @@
             "position": "IT Project Coordinator",
             "url": "https://kultursaat.org",
             "startDate": "2019-07",
-            "endDate": "2ß23-04",
+            "endDate": "2023-04",
             "summary": "Modernization of the online project management tool through multi-stakeholder consultation",
             "highlights": [
                 "Highly responsive, secure site with zero outage"
             ]
         },
-
         {
             "name": "IFOAM - Organics International",
             "position": "Assistant to Executive Director and Board",
@@ -41,7 +40,6 @@
                 "KPI monitoring and upkeep, Contract management"
             ]
         },
-
         {
             "name": "IFOAM - Organics International",
             "position": "Communication Coordinator",
@@ -75,7 +73,6 @@
                 "Ecology, Biosatatistics, Cell Biology, Physiology, Biochemistry"
             ]
         },
-
         {
             "institution": "University of Kerala, Kerala, India",
             "location": "Kerala, India",
